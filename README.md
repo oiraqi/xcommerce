@@ -1,13 +1,13 @@
 # XCommerce
 XCommerce: The enterprise-class e-commerce application, designed and developed for educational purposes. It is orchestrated by Spring Boot and uses a variety of technologies and languages (hence X): 
-- JPA (on top of Hibernate/MySQL)
+- JPA/Hibernate/MySQL
 - MongoDB
 - Redis
 - REST
-- JSF
+- JSF/BootsFaces
 - Django
 - Node
-- Angular
+- Angular/Material Design
 
 This is an overarching project with the following sub-projects:
 - XCommerce Core: https://github.com/oiraqi/xcommerce-core
