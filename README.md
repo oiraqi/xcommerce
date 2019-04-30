@@ -8,7 +8,8 @@ XCommerce: The enterprise-class e-commerce application, designed and developed f
 - Django
 - Node
 - Angular/Material Design
-- ... The list is growing. You're welcome to contribute through your favourite front-end technology.
+- ... 
+The list is growing. You're welcome to contribute through your favourite front-end technology.
 
 This is an overarching project with the following sub-projects:
 - XCommerce Core: https://github.com/oiraqi/xcommerce-core
