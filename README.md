@@ -1,7 +1,5 @@
 # XCommerce
-XCommerce: The enterprise-class e-commerce application, designed and developed for educational purposes. 
-
-It is orchestrated by Spring Boot and uses a variety of technologies and languages (hence X): 
+XCommerce: The enterprise-class e-commerce application, designed and developed for educational purposes. It is orchestrated by Spring Boot and uses a variety of technologies and languages (hence X): 
 - JPA (on top of Hibernate/MySQL)
 - MongoDB
 - Redis
