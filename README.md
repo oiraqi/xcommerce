@@ -3,6 +3,7 @@ XCommerce: The enterprise-class e-commerce application, designed and developed f
 - JPA/Hibernate/MySQL
 - MongoDB
 - Redis
+- Neo4j
 - Netty
 - REST
 - JSF/BootsFaces
