@@ -6,8 +6,6 @@ XCommerce: The enterprise-class e-commerce application, designed and developed f
 - Neo4j
 - Netty
 - REST
-- Django
-- Node
 - Angular/Material Design
 - ... 
 
@@ -16,6 +14,4 @@ The list is growing. You're welcome to contribute through your favourite monolit
 XCommerce is an overarching project with the following sub-projects:
 - XCommerce Monolithic (Spring-based): https://github.com/oiraqi/xcommerce-monolithic
 - XCommerce Microservices (Spring-based): https://github.com/oiraqi/xcommerce-microservices
-- XCommerce Web Django: https://github.com/oiraqi/xcommerce-web-django
-- XCommerce Web Node/Express: https://github.com/oiraqi/xcommerce-web-node
 - XCommerce PWA Angular: https://github.com/oiraqi/xcommerce-web-angular
