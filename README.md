@@ -7,11 +7,12 @@ XCommerce: The enterprise-class e-commerce application, designed and developed f
 - Netty
 - REST
 - Angular/Material Design
-- ... 
+- React
+- ...
 
 The list is growing. You're welcome to contribute through your favourite monolithic or microservices back-end technology and/or front-end technology. We'd love to see PHP, Ruby, React, Vue.js...
 
 XCommerce is an overarching project with the following sub-projects:
 - XCommerce Monolithic (Spring-based): https://github.com/oiraqi/xcommerce-monolithic
 - XCommerce Microservices (Spring-based): https://github.com/oiraqi/xcommerce-microservices
-- XCommerce PWA Angular: https://github.com/oiraqi/xcommerce-web-angular
+- XCommerce PWA Angular: https://github.com/oiraqi/xcommerce-client-angular
