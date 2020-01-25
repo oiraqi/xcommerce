@@ -1,6 +1,6 @@
 # XCommerce
 ## Overview
-XCommerce: The e-commerce meta-project, designed and developed for educational purposes. It is based on, and showcases a variety of languages, technologies and architectures (hence X):
+Welcome to XCommerce: The e-commerce meta-project, designed and developed for educational purposes. It is based on, and showcases a variety of languages, technologies and architectures (hence X):
 - Languages: C, Java, JavaScript and TypeScript
 - Technologies: Spring Boot, Spring Cloud, Angular, Postgres, Redis, Neo4j, Redis, Kafka, Beam
 - Architectures: Standalone, SOA synchronous (REST) monolithic, Cloud asynchronous event-driven microservices
