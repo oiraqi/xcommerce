@@ -8,6 +8,7 @@ Welcome to XCommerce: The e-commerce meta-project, designed and developed for ed
 The list is growing. You're welcome to contribute through your favourite language and/or technology. We'd love to see languages such as Python, Rust and Scala, as well as modern client-side JavaScript/TypeScript technologies such as React, Vue.js, Svelte, Electron, etc.
 
 ## Current projects under XCommerce:
-- [XCommerce SOA Monolithic (Spring-based)](https://github.com/oiraqi/xcommerce-monolithic)
-- [XCommerce Cloud Microservices (Spring-based)](https://github.com/oiraqi/xcommerce-microservices)
-- [XCommerce PWA Angular](https://github.com/oiraqi/xcommerce-client-angular)
+- [XCommerce Standalone (C)](https://github.com/oiraqi/xcommerce-standalone-c)
+- [XCommerce SOA Monolithic (Spring Boot)](https://github.com/oiraqi/xcommerce-monolithic)
+- [XCommerce Cloud Microservices (Spring Cloud)](https://github.com/oiraqi/xcommerce-microservices)
+- [XCommerce PWA (Angular)](https://github.com/oiraqi/xcommerce-client-angular)
